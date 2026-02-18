@@ -1,0 +1,54 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Feb 2026 17:52:46 at https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" -Y https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM -O1 "C:\Users\EL METAL\Desktop\WEB\BUENA CONDUCTA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:53:16	Warning: 	Moved Permanently for pgr.gob.do/robots.txt
+17:53:16	Warning: 	Redirected link is identical because of 'URL Hack' option: pgr.gob.do/robots.txt and https://pgr.gob.do/robots.txt
+17:53:16	Warning: 	Warning moved treated for pgr.gob.do/robots.txt (real one is https://pgr.gob.do/robots.txt)
+17:53:16	Warning: 	Moved Permanently for pgr.gob.do/mapa-del-sitio/
+17:53:16	Warning: 	Redirected link is identical because of 'URL Hack' option: pgr.gob.do/mapa-del-sitio/ and https://pgr.gob.do/mapa-del-sitio/
+17:53:16	Warning: 	File has moved from pgr.gob.do/mapa-del-sitio/ to https://pgr.gob.do/mapa-del-sitio/
+17:55:13	Error: 	"Not Found" (404) at link https://portal.servicios.pgr.gob.do/Content/intro.js-2.7.0/example/assets/css/bootstrap.min.css (from https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM)
+17:55:13	Error: 	"Not Found" (404) at link https://pgr.gob.do/terminos-y-condiciones-de-uso/ (from https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM)
+17:55:13	Warning: 	Moved Permanently for pgr.gob.do/politicas-de-privacidad/
+17:55:13	Warning: 	Redirected link is identical because of 'URL Hack' option: pgr.gob.do/politicas-de-privacidad/ and https://pgr.gob.do/politicas-de-privacidad/
+17:55:13	Warning: 	File has moved from pgr.gob.do/politicas-de-privacidad/ to https://pgr.gob.do/politicas-de-privacidad/
+17:55:13	Warning: 	Moved Permanently for pgr.gob.do/preguntas-frecuentes/
+17:55:13	Warning: 	Redirected link is identical because of 'URL Hack' option: pgr.gob.do/preguntas-frecuentes/ and https://pgr.gob.do/preguntas-frecuentes/
+17:55:13	Warning: 	File has moved from pgr.gob.do/preguntas-frecuentes/ to https://pgr.gob.do/preguntas-frecuentes/
+17:55:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://twitter.com/ProcuraduriaRD (from https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM)
+17:55:31	Warning: 	Found for https://es-la.facebook.com/ProcuraduriaGralRD/
+17:55:31	Warning: 	File has moved from https://es-la.facebook.com/ProcuraduriaGralRD/ to https://es-la.facebook.com/unsupportedbrowser
+17:55:33	Warning: 	Found for https://www.instagram.com/robots.txt
+17:55:33	Warning: 	File has moved from https://www.instagram.com/robots.txt to https://www.facebook.com/unsupportedbrowser
+17:55:33	Warning: 	Found for https://www.instagram.com/procuraduriagralrd/?hl=es-la
+17:55:33	Warning: 	File has moved from https://www.instagram.com/procuraduriagralrd/?hl=es-la to https://www.facebook.com/unsupportedbrowser
+17:58:35	Warning: 	Found for https://www.instagram.com/procuraduriagralrd/
+17:58:35	Warning: 	File has moved from https://www.instagram.com/procuraduriagralrd/ to https://www.facebook.com/unsupportedbrowser
+17:58:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://twitter.com/OGTICRDO (from https://nortic.ogtic.gob.do/instituciones/PGR)
+17:58:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://twitter.com/ProcuraduriaRD (from https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM)
+17:58:42	Error: 	"Not Found" (404) at link https://www.youtube.com/c/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCWHiDAnVjVroTXIRxd2_MPg (from https://www.youtube.com/c/ProcuraduriaGralRD)
+17:58:42	Error: 	"Not Found" (404) at link https://pgr.gob.do/wp-content/uploadsmentor-creative-light/wp-content/uploads/sites/122nk-side-menu/wp-content/uploads/sites/119nk/wp-content/uploads/sites/114iness-advisors/inc/presets/images/full/skin22.stripes-stripe-3-bg-image.jpg (from https://pgr.gob.do/wp-content/cache/fvm/min/1768485447-css6adc17ec0ef6a21ffff1439a5f2d579f13de1f194e900e8e5452186772db2.css)
+17:58:42	Error: 	"Not Found" (404) at link https://pgr.gob.do/servicios/infracciones-de-transito (from https://pgr.gob.do/servicios/certificacion-de-buena-conducta/)
+17:58:44	Error: 	"Not Found" (404) at link https://pgr.gob.do/servicios/modificacion-de-una-asociacion-sin-fines-de-lucro (from https://pgr.gob.do/servicios/certificacion-de-buena-conducta/)
+17:58:44	Error: 	"Not Found" (404) at link https://pgr.gob.do/servicios/formulario-de-denuncias (from https://pgr.gob.do/servicios/certificacion-de-buena-conducta/)
+17:58:45	Warning: 	Retry after error -4 (Interrupted transfer) at link https://twitter.com/OGTICRDO (from https://nortic.ogtic.gob.do/instituciones/PGR)
+17:58:47	Error: 	"Not Found" (404) at link https://www.youtube.com/c/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UChrVtrHv4vHt3Vwhj2RzlvA (from https://www.youtube.com/c/OGTICRD)
+17:58:47	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://twitter.com/ProcuraduriaRD (from https://portal.servicios.pgr.gob.do/ConsultasEnLinea/ConsultarCertificado?codigoFirmaDigital=39K7-ML75-BXDM-68OW-11JM-NUMM)
+17:58:47	Warning: 	See Other for https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:47	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:47	Warning: 	File has moved from https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:48	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://twitter.com/OGTICRDO (from https://nortic.ogtic.gob.do/instituciones/PGR)
+17:58:50	Warning: 	See Other for https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:50	Warning: 	File has moved from https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:50	Warning: 	See Other for https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ and https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+17:58:50	Warning: 	File has moved from https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ to https://www.youtube.com/c/android-app:/com.google.android.youtube/http/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCjaFblyfqwCBM1-_t2Q9jlQ
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 4 seconds : 279 links scanned, 245 files written (18826572 bytes overall) [8368808 bytes received at 22991 bytes/sec], 14622750 bytes transferred using HTTP compression in 189 files, ratio 22%, 5.9 requests per connection
+(10 errors, 33 warnings, 0 messages)
